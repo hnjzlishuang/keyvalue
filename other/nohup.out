@@ -1,0 +1,44 @@
+Python 2.7.10 |Anaconda 2.5.0 (x86_64)| (default, Oct 19 2015, 18:31:17) 
+[GCC 4.2.1 (Apple Inc. build 5577)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+Anaconda is brought to you by Continuum Analytics.
+Please check out: http://continuum.io/thanks and https://anaconda.org
+[?1034h>>> 
+KeyboardInterrupt
+>>> 
+KeyboardInterrupt
+>>> 
+KeyboardInterrupt
+>>> 
+KeyboardInterrupt
+>>> 
+KeyboardInterrupt
+>>> Python 2.7.10 |Anaconda 2.5.0 (x86_64)| (default, Oct 19 2015, 18:31:17) 
+[GCC 4.2.1 (Apple Inc. build 5577)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+Anaconda is brought to you by Continuum Analytics.
+Please check out: http://continuum.io/thanks and https://anaconda.org
+[?1034h>>> 
+KeyboardInterrupt
+>>> 
+KeyboardInterrupt
+>>> 
+KeyboardInterrupt
+>>> 
+KeyboardInterrupt
+>>> 
+KeyboardInterrupt
+>>> 
+KeyboardInterrupt
+>>> Traceback (most recent call last):
+  File "server.py", line 159, in <module>
+    server = HTTPServer((conf.PRIMARY, conf.PORT), KVRequestHandler)
+  File "/Users/liuzhuang/anaconda2/lib/python2.7/SocketServer.py", line 420, in __init__
+    self.server_bind()
+  File "/Users/liuzhuang/anaconda2/lib/python2.7/BaseHTTPServer.py", line 108, in server_bind
+    SocketServer.TCPServer.server_bind(self)
+  File "/Users/liuzhuang/anaconda2/lib/python2.7/SocketServer.py", line 434, in server_bind
+    self.socket.bind(self.server_address)
+  File "/Users/liuzhuang/anaconda2/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 48] Address already in use

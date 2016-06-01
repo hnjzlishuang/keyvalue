@@ -1,0 +1,13 @@
+In our test program, we are testing mainly two things:
+(1) Special Character
+(2) Multithreading
+
+For (1), we assume the server decode the url using url-encoding when deal with GET or POST request (Otherwise we can't test anything regarding content). We insert keys and values including '=', '', ' ', '+' and Chinese characters, and get values to see whether they are correct. If any one is incorrect, we report failure. We use the following keys and values:
+keys = ['he  he""', '=+=', '汉字', '\%\%', '3&key=']
+values = ['yinhao', '=+=', '测试', '!!**', '&&&']
+
+Further, we assume the returned json string is in utf-8 encoding, which is the standard encoding used by json. Before we compare the results, we first decode the json string by utf-8.
+
+For (2), we send 2000 insertion request to the primary server and then check the number of requests which time out, if more than 800 of the requests time out, we report failure. This is within hardware performance if the server serves in a multithread manner. On my machine, usually our implementation can have less than 400 requests timed out, but we set it to 800 in case of extreme cases. On an actual server, usually there will be no time outs.
+
+Before running test, please stop the servers first. The test program is bin/test.py. bin/client.py is for our own test purpose, not for other groups.

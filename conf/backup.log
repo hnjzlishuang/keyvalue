@@ -1,0 +1,3008 @@
+Primary is ready
+Fetching data from primary
+starting to serve as backup
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+
+acquire lock
+ release lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+ acquire lock
+release lockrelease lock
+
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lockacquire lock
+release lock
+
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock127.0.0.2 - - [01/Jun/2016 01:58:29] "POST /kv/insert HTTP/1.1" 200 -
+
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lockacquire lock
+release lock
+
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+ acquire lock
+release lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lockacquire lock
+
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+
+ acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lockacquire lock
+
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:30] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lockacquire lock
+release lock
+
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lockacquire lock
+
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lockacquire lock
+release lock
+
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+ acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:31] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lockacquire lock
+release lock
+release lock
+
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+ acquire lock
+release lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+
+ acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+
+release lockacquire lock
+release lock
+
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+release lockacquire lock
+release lock
+
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lockacquire lock
+release lock
+
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+ acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+release lock
+ acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+
+ acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+ acquire lock
+release lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:32] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+ release lock
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:33] "POST /kv/insert HTTP/1.1" 200 -
+acquire lock
+release lock
+127.0.0.2 - - [01/Jun/2016 01:58:41] "GET /kvman/dump HTTP/1.1" 200 -
+127.0.0.2 - - [01/Jun/2016 01:59:40] "GET /getdata HTTP/1.1" 200 -
+Data fetched by primary
+127.0.0.2 - - [01/Jun/2016 01:59:47] "GET /getdata HTTP/1.1" 200 -
+Data fetched by primary

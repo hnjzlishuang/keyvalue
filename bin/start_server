@@ -1,0 +1,12 @@
+#!/bin/sh
+if [ "$1" = "-p" ]
+then
+	nohup python -u bin/server.py > conf/primary.log 2>&1&
+	echo $! > conf/primary_pid
+fi
+
+if [ "$1" = "-b" ]
+then
+	nohup python -u bin/backup.py > conf/backup.log 2>&1&
+	echo $! > conf/backup_pid
+fi

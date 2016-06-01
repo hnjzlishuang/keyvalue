@@ -10,4 +10,4 @@ Further, we assume the returned json string is in utf-8 encoding, which is the s
 
 For (2), we send 2000 insertion request to the primary server and then check the number of requests which time out, if more than 800 of the requests time out, we report failure. This is within hardware performance if the server serves in a multithread manner. On my machine, usually our implementation can have less than 400 requests timed out, but we set it to 800 in case of extreme cases. On an actual server, usually there will be no time outs.
 
-Before running test, please stop the servers first. The test program is bin/test.py. bin/client.py is for our own test purpose, not for other groups.
+Before running test, please stop the servers first. The test program is bin/test.py. Another file bin/client.py is for our own test purpose, not for other groups.

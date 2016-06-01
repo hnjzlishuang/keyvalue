@@ -78,48 +78,53 @@ class KVRequestHandler(BaseHTTPRequestHandler):
 
 	def insert(self, key, value):
 		self.send_response(200)
-		print key
-		print value
-		result = db.insert(key, value)
-		print result
 		self.send_header("Content-type", "application/json")
 		self.end_headers()
 
-		if ask_backup():
+		try:
 			params = urllib.urlencode({'key': key, 'value':value})
 			conn = httplib.HTTPConnection(conf.BACKUP, conf.PORT, timeout=conf.TIMEOUT)
 			conn.request('POST', '/kv/insert', params)
 			response = conn.getresponse()
+			result = db.insert(key, value)
+			self.wfile.write(result)
+		except:
+			print 'backup timeout/down'
 
-		self.wfile.write(result)
+
+
 
 	def delete(self, key):
 		self.send_response(200)
-		result = db.delete(key)
 		self.send_header('Content-type', 'application/json')
 		self.end_headers()
 
-		if ask_backup():
+		try:
 			params = urllib.urlencode({'key': key})
 			conn = httplib.HTTPConnection(conf.BACKUP, conf.PORT, timeout=conf.TIMEOUT)
 			conn.request('POST', '/kv/delete', params)
 			response = conn.getresponse()
+			result = db.delete(key)
+			self.wfile.write(result)
+		except:
+			print 'backup timeout/down'
 
-		self.wfile.write(result)
+		
 
 	def update(self, key, value):
 		self.send_response(200)
-		result = db.update(key, value)
 		self.send_header('Content-type', 'application/json')
 		self.end_headers()
 
-		if ask_backup():
+		try:
 			params = urllib.urlencode({'key': key, 'value': value})
 			conn = httplib.HTTPConnection(conf.BACKUP, conf.PORT, timeout=conf.TIMEOUT)
 			conn.request('POST', '/kv/update', params)
 			response = conn.getresponse()
-
-		self.wfile.write(result)
+			result = db.update(key, value)
+			self.wfile.write(result)
+		except:
+			print 'backup timeout/down'
 
 	def countkey(self):
 		self.send_response(200)

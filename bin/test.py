@@ -40,8 +40,9 @@ class Request():
 			start = time.time()
 			response = conn.getresponse()
 			end = time.time()
-			self.success_count += 1
-			self.insert_latency.append(end-start)
+			if '' != response.read():
+				self.success_count += 1
+				self.insert_latency.append(end-start)
 			return response
 		except:
 			pass

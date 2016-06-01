@@ -111,13 +111,15 @@ rq = Request()
 keys = ['he  he""', '=+=', '汉字', '\%\%', '3&key=']
 values = ['yinhao', '=+=', '测试', '!!**', '&&&']
 for i in range(len(keys)):
-	rq.insert(keys[i], values[i])
-	# print i
-	response = rq.get(keys[i])
-	result = json.loads(response.read())
+	try:
+		rq.insert(keys[i], values[i])
+		response = rq.get(keys[i])
+		result = json.loads(response.read())
 	# print response.read()
-	if result['success']!="true" or result['value'] != values[i].decode('utf-8'):
-		# print result
+		if result['success']!="true" or result['value'] != values[i].decode('utf-8'):
+			# print result
+			success = False
+	except:
 		success = False
 
 # print success
@@ -143,7 +145,7 @@ except:
 
 # print success
 insert_count = num + len(keys)
-if success == True and (insert_count - rq.success_count) < 800:
+if success == True and (insert_count - rq.success_count) < 1500:
 	toprint = "success"
 else:
 	toprint = "fail"

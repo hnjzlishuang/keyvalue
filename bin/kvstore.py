@@ -13,7 +13,7 @@ class kv():
 		if key not in self.locks:
 			self.locks[key] = threading.Lock()
 		self.locks[key].acquire()
-		print 'acquire lock'
+		# print 'acquire lock'
 		result = OrderedDict([("success", conf.FALSE)])
 		if key in self.data:
 			result['success'] = conf.FALSE
@@ -21,7 +21,7 @@ class kv():
 			self.data[key] = value
 			result['success'] = conf.TRUE
 		self.locks[key].release()
-		print 'release lock'
+		# print 'release lock'
 		return json.dumps(result)
 
 	def delete(self, key):

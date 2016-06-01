@@ -1,5 +1,8 @@
-sleep 3
+#sleep 3
 bin/start_server -p
-sleep 3
+sleep 1
+bin/start_server -b
+#sleep 3
 python bin/test.py
-#bin/stop_server -p
+bin/stop_server -p
+bin/stop_server -b
